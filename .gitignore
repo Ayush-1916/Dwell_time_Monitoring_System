@@ -1,0 +1,25 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+dwell_env/
+lib/
+dwell/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.keras
+*.h5
+*.model
+*.pb
+
+
+# Dataset
+data/
+dataset/
+
+# OS
+.DS_Store

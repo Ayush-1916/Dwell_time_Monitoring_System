@@ -30,4 +30,5 @@ This system tracks people in a video stream and calculates the time spent (dwell
 
 ### How to run:
 
-1. run requirements.txt
+1. run requirement.txt in terminal
+2. run opencv.py
